@@ -9,4 +9,4 @@ Despues la contraseña se encuenta en el fichero readme que se encuentra en el h
 
 ![[bandit0.jpg]]
 
-Siguiente [[Bandit 1]]
+Siguiente [Bandit 1](./Bandit 1)
