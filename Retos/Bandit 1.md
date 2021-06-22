@@ -7,6 +7,6 @@ en este caso seria:
 Despues la contraseña se encuenta en el fichero readme que se encuentra en el home, para leerlo se puede usar el comando #cat:
 ```cat readme```
 
-![[bandit0.jpg]]
+![[bandit1.jpg]]
 
 Siguiente [Bandit 1](./Bandit 1)
